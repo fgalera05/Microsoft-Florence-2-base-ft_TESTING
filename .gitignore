@@ -1,0 +1,29 @@
+# Python & VSCode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Model files (large)
+yolo11n.pt
+runs/
+
+# Logs & temporary files
+*.log
+*.tmp
+
+# Environment files
+.env
+
+# VS Code settings
+.vscode/
